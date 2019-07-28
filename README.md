@@ -1,5 +1,5 @@
 # Linear-Regression
-This linear Regression is specificly for polynomial regression with one feature. It contains Batch gradient descent, Stochastic gradient descent, Close Form and Locally weighted linear regression.
+This linear Regression is specificly for polynomial regression with one feature. It contains Batch gradient descent, Stochastic gradient descent, Close Form and Locally weighted linear regression. Because of the lack of enough data, it is hard to say it is overfiting or not. So I did not consider over-fititng problem.
 
 To run this code, you only need to change one line
 
